@@ -10,7 +10,7 @@ Khushi (4MW23CS058)
 
 🛠️ Features
 Generates a random palindrome string.
-Serial implementation of palindrome check.
+Serial implementation of palindrome check.  
 Parallel implementation using OpenMP.
 Execution time comparison for both methods.
 
