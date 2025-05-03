@@ -29,6 +29,7 @@ bash:gcc check_palindrome.c -o check_palindrome -fopenmp
 
 Run:
 bash:./check_palindrome
+
 🔸 You will be prompted to enter the length of the string (must be greater than 10).
 
 🧪 Example Output
