@@ -56,7 +56,7 @@ Time taken: 0.000001 seconds
 
 Is palindrome? Yes
 
-Time taken: 0.000002 seconds
+Time taken: 0.000025 seconds
 
 🔍 Notes
 
